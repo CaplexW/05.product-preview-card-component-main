@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://caplexw.github.io/FMC-product-preview-card-component-main/)
 
 ## My process
 
